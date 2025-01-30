@@ -7,3 +7,9 @@
 
 ## Second Project - Stock Prices
 - <b> Objective: </b>Exploratory Data Analysis on a dataset of stock prices from different banks from the World. The dataset for each bank was downloaded through [Pandas Datareader](https://pandas-datareader.readthedocs.io/en/latest/remote_data.html).
+
+## Third Project - Ecommerce
+- <b> Objective: </b>Given a dataset of costumer behavior on an e-commerce application, train a Linear Regression model to determine how the company should focus future investments.
+
+## Fourth Project - Advertising
+- <b> Objective: </b>Given a dataset of Advertisement Data (including costumer features and whether they clicked on one particular ad), train a Logistic Regression model to predict if future costumers are likely to click on an ad.
